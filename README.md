@@ -118,8 +118,9 @@ Check the [official MCP documentation](https://modelcontextprotocol.io) for deta
 - [Claude API Documentation](https://docs.anthropic.com)
 
 ## Connect
-
+Author:Muhammad Hashim Nawaz
 Created by [@_hsh1m_](https://instagram.com/_hsh1m_)
+
 
 ---
 
