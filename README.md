@@ -1,5 +1,7 @@
 # CLAUDE_MCP_TEST_REPO
 
+This Repo was made by Claude Desktop using GitHub's MCP Server 
+
 A test repository for understanding and setting up Claude MCP (Model Context Protocol) Servers.
 
 ## What is an MCP Server?
